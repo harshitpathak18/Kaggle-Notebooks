@@ -71,13 +71,13 @@ This repository contains notebooks that demonstrate data exploration, feature en
    - **File:** [iris-species-classification.ipynb](iris-species-classification.ipynb)
 
 ### 11. **Music Recommendation System**
-<img src="" width=500>
+<img src="https://repository-images.githubusercontent.com/481851510/24e876a4-5f85-4c10-8b12-7638b49d6179" width=500>
 
    - **Description:** Development of a music recommendation system using collaborative filtering or other techniques.
    - **File:** [music-recommendation-system.ipynb](music-recommendation-system.ipynb)
 
 ### 12. **Outlier Detection Techniques**
-<img src="https://repository-images.githubusercontent.com/481851510/24e876a4-5f85-4c10-8b12-7638b49d6179" width=500>
+<img src="" width=500>
 
    - **Description:** Techniques for detecting outliers in datasets. Includes methods such as Z-score, IQR, and visualization techniques.
    - **File:** [outlier-detection-techniques.ipynb](outlier-detection-techniques.ipynb)
