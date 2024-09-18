@@ -29,7 +29,7 @@ This repository contains notebooks that demonstrate data exploration, feature en
    - **File:** [basic-customer-segmentation-with-kmeans-clustering.ipynb](basic-customer-segmentation-with-kmeans-clustering.ipynb)
 
 ### 4. **CNN for 99.41% Digits Recognition**
-<img src="https://www.researchgate.net/publication/221518120/figure/fig4/AS:668489102659594@1536391630464/Our-Digits-task-requires-recognition-of-handwritten-digits-Participants-collect-data.png" width=500>
+<img src="https://miro.medium.com/v2/resize:fit:372/1*AO2rIhzRYzFVQlFLx9DM9A.png" width=500>
 
    - **Description:** Convolutional Neural Network (CNN) for digit recognition with 99.41% accuracy. Includes model architecture and performance evaluation.
    - **File:** [cnn-99-41-digits-recognizer.ipynb](cnn-99-41-digits-recognizer.ipynb)
