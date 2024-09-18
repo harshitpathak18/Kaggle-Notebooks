@@ -1,9 +1,5 @@
 # <center>Kaggle Notebook Collection</center>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxN1FqmUx4IUPptxu7AR2vPFLlnlN0AFhMA&s" alt="Centered Image" 
-      style="max-width: 100%;
-            height: auto;
-            border: 2px solid #ddd;
-            border-radius: 8px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxN1FqmUx4IUPptxu7AR2vPFLlnlN0AFhMA&s" alt="Centered Image">
 
 Welcome to my Kaggle notebook repository! This repository contains a collection of my Kaggle notebooks showcasing various data analysis, machine learning, and data visualization projects. Each notebook includes detailed code, explanations, and visualizations to provide insights into different datasets and problem domains.
 
@@ -15,13 +11,13 @@ This repository contains notebooks that demonstrate data exploration, feature en
 ## Notebooks
 
 ### 1. **Alzheimer's Detection Using VGG16**
-<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-022-11925-0/MediaObjects/11042_2022_11925_Fig3_HTML.png">
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-022-11925-0/MediaObjects/11042_2022_11925_Fig3_HTML.png" width=800>
 
    - **Description:** A deep learning project for detecting Alzheimer's disease using the VGG16 model. Includes data preprocessing, model training, and evaluation.
    - **File:** [alzheimer-s-detection-using-vgg16.ipynb](alzheimer-s-detection-using-vgg16.ipynb)
 
 ### 2. **Apple Quality Assessment**
-<img src="https://www.shutterstock.com/image-photo/lots-red-apples-tasty-juicy-600nw-2341320361.jpg">
+<img src="https://www.shutterstock.com/image-photo/lots-red-apples-tasty-juicy-600nw-2341320361.jpg" width=800>
 
    - **Description:** Analysis of apple quality using machine learning techniques. Includes feature extraction and model evaluation.
    - **File:** [apple-quality-assessment.ipynb](apple-quality-assessment.ipynb)
