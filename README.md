@@ -15,10 +15,12 @@ This repository contains notebooks that demonstrate data exploration, feature en
 ## Notebooks
 
 ### 1. **Alzheimer's Detection Using VGG16**
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-022-11925-0/MediaObjects/11042_2022_11925_Fig3_HTML.png">
    - **Description:** A deep learning project for detecting Alzheimer's disease using the VGG16 model. Includes data preprocessing, model training, and evaluation.
    - **File:** [alzheimer-s-detection-using-vgg16.ipynb](alzheimer-s-detection-using-vgg16.ipynb)
 
 ### 2. **Apple Quality Assessment**
+<img src="https://www.shutterstock.com/image-photo/lots-red-apples-tasty-juicy-600nw-2341320361.jpg">
    - **Description:** Analysis of apple quality using machine learning techniques. Includes feature extraction and model evaluation.
    - **File:** [apple-quality-assessment.ipynb](apple-quality-assessment.ipynb)
 
