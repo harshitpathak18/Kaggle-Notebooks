@@ -2,14 +2,7 @@
 
 Welcome to my Kaggle notebook repository! This repository contains a collection of my Kaggle notebooks showcasing various data analysis, machine learning, and data visualization projects. Each notebook includes detailed code, explanations, and visualizations to provide insights into different datasets and problem domains.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Notebooks](#notebooks)
-3. [Setup](#setup)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+!()[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxN1FqmUx4IUPptxu7AR2vPFLlnlN0AFhMA&s]
 
 ## Introduction
 
