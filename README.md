@@ -77,67 +77,67 @@ This repository contains notebooks that demonstrate data exploration, feature en
    - **File:** [music-recommendation-system.ipynb](music-recommendation-system.ipynb)
 
 ### 12. **Outlier Detection Techniques**
-<img src="" width=500>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240507122514/what-is-Outlier-Detection.webp" width=500>
 
    - **Description:** Techniques for detecting outliers in datasets. Includes methods such as Z-score, IQR, and visualization techniques.
    - **File:** [outlier-detection-techniques.ipynb](outlier-detection-techniques.ipynb)
 
 ### 13. **Paris Olympics Exploratory Data Analysis**
-<img src="" width=500>
+<img src="https://cdn2.nbcuni.com/NBCUniversal/styles/newsroom_stories_16_9_image_style/s3/2024-04/parisOlympics.jpg?VersionId=m4JkLkVY9Y8sx3biupo01Zj1QiYYs2N2&h=c71d0c67&itok=uL0VNx2s" width=500>
 
    - **Description:** Exploratory data analysis of the Paris Olympics dataset. Includes data visualization and insights.
    - **File:** [paris-olympics-exploratory-data-analysis.ipynb](paris-olympics-exploratory-data-analysis.ipynb)
 
 ### 14. **Pneumonia Prediction Using CNN**
-<img src="" width=500>
+<img src="https://pub.mdpi-res.com/diagnostics/diagnostics-10-00417/article_deploy/html/images/diagnostics-10-00417-g001.png?1602226252" width=500>
 
    - **Description:** Pneumonia prediction using Convolutional Neural Networks (CNN) with 83% accuracy. Includes model training and evaluation.
    - **File:** [pneumonia-prediction-using-cnn-83-accuracy.ipynb](pneumonia-prediction-using-cnn-83-accuracy.ipynb)
 
 ### 15. **QR Code Generator**
-<img src="" width=500>
+<img src="https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/homepage/homepage-step-1.webp" width=500>
 
    - **Description:** QR code generation using Python. Includes code for generating and customizing QR codes.
    - **File:** [qr-code-generator.ipynb](qr-code-generator.ipynb)
 
 ### 16. **Red Wine Data Analysis and Modeling**
-<img src="" width=500>
+<img src="https://user-images.githubusercontent.com/47216809/86511259-ef33e380-be14-11ea-8ea3-3a3cc4ff5ce8.jpg" width=500>
 
    - **Description:** Analysis and modeling of red wine quality data. Includes exploratory analysis and model building.
    - **File:** [red-wine-data-analysis-model.ipynb](red-wine-data-analysis-model.ipynb)
 
 ### 17. **SMS Filter: Spam or Ham**
-<img src="" width=500>
+<img src="https://editor.analyticsvidhya.com/uploads/32086heading.jpeg" width=500>
 
    - **Description:** Classification of SMS messages as spam or ham. Includes data preprocessing, feature extraction, and model evaluation.
    - **File:** [sms-filter-spam-or-ham.ipynb](sms-filter-spam-or-ham.ipynb)
 
 ### 18. **Sonar Rock-Mine Classifiers**
-<img src="" width=500>
+<img src=https://hrbrx.space/project/sonar/featured.png"" width=500>
 
    - **Description:** Classification of sonar data to identify rocks and mines. Includes model training and evaluation.
    - **File:** [sonar-rock-mine-classifiers.ipynb](sonar-rock-mine-classifiers.ipynb)
 
 ### 19. **Stacked Model for House Price Prediction**
-<img src="" width=500>
+<img src="https://user-images.githubusercontent.com/49127037/138058027-a9d85497-8bbb-4385-b313-1b0dca7e3dbb.png" width=500>
 
    - **Description:** Prediction of house prices using stacked models. Includes feature engineering and model performance evaluation.
    - **File:** [stacked-model-house-price-prediction-0-13443.ipynb](stacked-model-house-price-prediction-0-13443.ipynb)
 
 ### 20. **Student Performance Analysis**
-<img src="" width=500>
+<img src="https://i.ytimg.com/vi/UM5bxbosgD8/maxresdefault.jpg" width=500>
 
    - **Description:** Analysis of student performance data. Includes data exploration and visualization.
    - **File:** [student-performance-analysis.ipynb](student-performance-analysis.ipynb)
 
 ### 21. **Suicide Rate Exploratory Data Analysis**
-<img src="" width=500>
+<img src="https://medinacountychildrenscenter.org/wp-content/uploads/2023/09/September-Social-Media-1200-%C3%97-720-px.png" width=500>
 
    - **Description:** Exploratory data analysis of suicide rates across different countries and demographics.
    - **File:** [suicide-rate-exploratory-data-analysis.ipynb](suicide-rate-exploratory-data-analysis.ipynb)
 
 ### 22. **Vehicle Market Segmentation with KMeans Clustering**
-<img src="" width=500>
+<img src="https://media.licdn.com/dms/image/D4D12AQFBJddwME-egw/article-cover_image-shrink_600_2000/0/1678598671986?e=2147483647&v=beta&t=F3LRVeQ-qvID6iP2dXmMNwtS-EXrpTv4By4U7bm8sFo" width=500>
 
    - **Description:** Market segmentation of vehicles using KMeans clustering. Includes data preprocessing and clustering results.
    - **File:** [vehicle-market-segmentation-k-means-clustering.ipynb](vehicle-market-segmentation-k-means-clustering.ipynb)
