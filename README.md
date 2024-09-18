@@ -53,7 +53,7 @@ This repository contains notebooks that demonstrate data exploration, feature en
    - **File:** [facebook-seller-live-kmeans-clustering.ipynb](facebook-seller-live-kmeans-clustering.ipynb)
 
 ### 8. **Fashion MNIST Classification**
-<img src="https://www.researchgate.net/publication/373046669/figure/fig1/AS:11431281180809965@1691723436709/The-FashionMNIST-dataset-consists-of-10-classes-of-monochrome-clothing-items-and-is.png" width=500>
+<img src="[https://www.researchgate.net/publication/373046669/figure/fig1/AS:11431281180809965@1691723436709/The-FashionMNIST-dataset-consists-of-10-classes-of-monochrome-clothing-items-and-is.png](https://www.researchgate.net/publication/382753798/figure/fig1/AS:11431281264387624@1722532183673/Fashion-MNIST-dataset-category-display-7.png)" width=500>
 
    - **Description:** Classification of Fashion MNIST dataset using machine learning models. Includes data preprocessing, model training, and evaluation.
    - **File:** [fashion-mnist-classification.ipynb](fashion-mnist-classification.ipynb)
@@ -113,7 +113,7 @@ This repository contains notebooks that demonstrate data exploration, feature en
    - **File:** [sms-filter-spam-or-ham.ipynb](sms-filter-spam-or-ham.ipynb)
 
 ### 18. **Sonar Rock-Mine Classifiers**
-<img src=https://hrbrx.space/project/sonar/featured.png"" width=500>
+<img src="https://hrbrx.space/project/sonar/featured.png" width=500>
 
    - **Description:** Classification of sonar data to identify rocks and mines. Includes model training and evaluation.
    - **File:** [sonar-rock-mine-classifiers.ipynb](sonar-rock-mine-classifiers.ipynb)
