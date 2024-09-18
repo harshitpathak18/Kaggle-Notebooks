@@ -53,7 +53,7 @@ This repository contains notebooks that demonstrate data exploration, feature en
    - **File:** [facebook-seller-live-kmeans-clustering.ipynb](facebook-seller-live-kmeans-clustering.ipynb)
 
 ### 8. **Fashion MNIST Classification**
-<img src="https://www.researchgate.net/publication/382753798/figure/fig1/AS:11431281264387624@1722532183673/Fashion-MNIST-dataset-category-display-7.png" width=500>
+<img src="https://ko.d2l.ai/_images/chapter_deep-learning-basics_fashion-mnist_17_0.svg" width=500>
 
    - **Description:** Classification of Fashion MNIST dataset using machine learning models. Includes data preprocessing, model training, and evaluation.
    - **File:** [fashion-mnist-classification.ipynb](fashion-mnist-classification.ipynb)
