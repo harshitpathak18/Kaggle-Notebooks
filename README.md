@@ -1,4 +1,5 @@
-# <center>Kaggle Notebook Collection</center>
+
+<center>Kaggle Notebook Collection</center>
 <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxN1FqmUx4IUPptxu7AR2vPFLlnlN0AFhMA&s" alt="Centered Image"></center>
 
 Welcome to my Kaggle notebook repository! This repository contains a collection of my Kaggle notebooks showcasing various data analysis, machine learning, and data visualization projects. Each notebook includes detailed code, explanations, and visualizations to provide insights into different datasets and problem domains.
